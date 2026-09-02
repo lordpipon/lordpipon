@@ -1,18 +1,19 @@
 Hey, I'm LordPipon 👋
 
+Sometimes I use AI to help with my projects.
 
 🛠️ Tech Stack
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"HTML" (https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-"Nginx" (https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-"Apache" (https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-"OpenCode" (https://img.shields.io/badge/OpenCode-000000?style=flat-square)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
+</p>---
 
 📊 GitHub Stats
 
