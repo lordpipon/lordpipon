@@ -1,6 +1,5 @@
 Hey, I'm LordPipon 👋
 
-Sometimes I use AI to help with my projects.
 
 🛠️ Tech Stack
 
