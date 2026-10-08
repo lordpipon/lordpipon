@@ -17,7 +17,7 @@ Hey, I'm LordPipon 👋
   <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
-</p>---
+</p>
 
 📊 GitHub Stats
 
